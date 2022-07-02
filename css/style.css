@@ -559,10 +559,15 @@ footer .footer-socials a.social-icon-4:hover{
         margin-top:-3rem;
         margin-bottom:0.5rem;
     }
-
+ 
+    .hero .left img{
+        width: 240px;
+        height:200px;
+    }
+ 
     .hero .left{
-        margin-top: -5rem;
-        margin-right: -9rem;
+        margin-top: -4rem;
+        margin-right: -3rem;
         padding-bottom:3rem;
     }
 
