@@ -556,19 +556,19 @@ footer .footer-socials a.social-icon-4:hover{
     }
 
     .hero .right h6{
-        margin-top:-3rem;
+        margin-top:-9rem;
         margin-bottom:0.5rem;
     }
  
     .hero .left img{
-        width: 240px;
-        height:200px;
+        width: 340px;
+        height:240px;
     }
  
     .hero .left{
-        margin-top: -4rem;
+        margin-top: -1rem;
         margin-right: -3rem;
-        padding-bottom:3rem;
+        padding-bottom:2rem;
     }
 
     section.services .card-wrapper{
