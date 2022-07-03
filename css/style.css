@@ -529,11 +529,10 @@ footer .footer-socials a.social-icon-4:hover{
     .hero{
         flex-direction: column;
     }
-    .hero .left img{
-        width: 276px;
-    }
+ 
     header{
         clip-path:none;
+        background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0));
     }
 
     section.freelance{
@@ -562,8 +561,8 @@ footer .footer-socials a.social-icon-4:hover{
     }
  
     .hero .left img{
-        width: 276px;'
-    
+        width: 276px;
+        display:none;
     }
  
     .hero .left{
