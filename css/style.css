@@ -530,6 +530,9 @@ footer .footer-socials a.social-icon-4:hover{
         flex-direction: column;
     }
  
+    section.about .about-me-img{
+        margin-top: 4rem;
+    }
     header{
         clip-path:none;
         background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0));
