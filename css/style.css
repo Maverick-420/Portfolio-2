@@ -530,7 +530,8 @@ footer .footer-socials a.social-icon-4:hover{
         flex-direction: column;
     }
     .hero .left img{
-        width: 786px;
+        width: 276px;
+        height:182px;
     }
     header{
         clip-path:none;
@@ -542,6 +543,7 @@ footer .footer-socials a.social-icon-4:hover{
     
     section.about .container{
         flex-direction: column;
+        margin-top:6rem;
     }
 
     .container{
