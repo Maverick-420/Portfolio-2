@@ -531,7 +531,11 @@ footer .footer-socials a.social-icon-4:hover{
     }
  
     section.about .about-me-img{
-        margin-top: 10rem;
+        margin-top:12rem;
+    }
+ 
+    .hero .right button{
+        margin-bottom: 1rem;
     }
     header{
         clip-path:none;
